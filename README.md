@@ -1,0 +1,2 @@
+# newGit
+The first repository
